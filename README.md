@@ -4,8 +4,8 @@ TweetJukeBox is a "virtual" jukebox that uses Twitter to select a song, with a
 special hashtag, and search for the song in the database of [YouTube](http://www.youtube.com). 
 The song is added to a local queue and is played using [mplayer](http://www.mplayerhq.hu).
 
-The TweetJukeBox has been developed by [Catodo](http://www.catodo.com) as art installation.
-You can read more about this art project here: http://www.catodo.net/tweetjukebox/
+The TweetJukeBox has been developed by [Catodo](http://www.catodo.net) as art installation.
+You can read more about the art project here: http://www.catodo.net/tweetjukebox/
 
 ### SYSTEM REQUIREMENTS
 
@@ -21,7 +21,7 @@ the PDO_SQLITE driver is enabled by default as of PHP 5.1.0).
 
 You can download (or clone) TweetJukeBox from github.
 
-To download as ZIP file [click here](https://github.com/iamcatodo/TweetJukeBox/zipball/master):
+To download as ZIP file [click here](https://github.com/iamcatodo/TweetJukeBox/zipball/master).
 
 To clone it, run the following command:
 
@@ -60,4 +60,4 @@ http://creativecommons.org/licenses/by-nc/3.0/
 
 ### COPYRIGHT
 
-(C) Copyright 2012 by Catodo - http://www.catodo.com
+(C) Copyright 2012 by Catodo - http://www.catodo.net
