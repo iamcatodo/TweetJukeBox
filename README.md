@@ -56,6 +56,7 @@ You can also restart the TweetJukeBox using the following command:
 ### LICENSE
 
 Creative Commons Attribution-NonCommercial 3.0
+
 http://creativecommons.org/licenses/by-nc/3.0/
 
 ### COPYRIGHT
